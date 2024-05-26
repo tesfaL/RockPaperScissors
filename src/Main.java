@@ -50,7 +50,8 @@ public class Main {
                 break;
             }
 
-            sc.close();
+
         }
+        sc.close();
     }
 }
